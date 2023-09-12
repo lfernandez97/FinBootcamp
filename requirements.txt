@@ -9,3 +9,4 @@ pydeck
 folium
 geopy
 pdf2image
+pdfplumber
