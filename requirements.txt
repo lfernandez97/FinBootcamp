@@ -8,3 +8,4 @@ Pillow
 pydeck
 folium
 geopy
+pdf2image
